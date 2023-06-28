@@ -1,5 +1,6 @@
 {
-  "defaultLocale": "de",
-  "APIbase": "https://demo-dev.openatlas.eu",
+  "defaultLocale": "en",
+  "defaultFilters": [362],
+  "APIbase": "https://mamems.openatlas.eu",
   "imageDomains": ["openatlas.eu"]
 }

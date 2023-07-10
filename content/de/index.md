@@ -1,4 +1,4 @@
-![logo](/OpenAtlasDiscovery_logo.jpg)
+![logo](/approaching_byzantium_logo.svg)
 
 # Approaching Byzantium
 

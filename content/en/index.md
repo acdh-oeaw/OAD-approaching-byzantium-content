@@ -1,4 +1,4 @@
-![logo](/logo.svg)
+![logo](/approaching_byzantium_logo.svg)
 
 # Approaching Byzantium
 

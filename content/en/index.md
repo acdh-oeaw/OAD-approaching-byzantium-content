@@ -1,5 +1,5 @@
 ![logo](/logo.svg)
 
-# Titel
+# Approaching Byzantium
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+The [Approaching Byzantium in Ottoman Istanbul: the Reception of the Byzantine Heritage of Constantinople by Scholars from the Holy Roman Empire in the 16th century project analyzes how visiting the city of Constantinople affected the reception of Byzantium by humanists from the Holy Roman Empire in the 16th century](https://www.byzanz-mainz.de/en/no_cache/research-byzanz/details-projects/article/approaching-byzantium-in-ottoman-istanbul-the-reception-of-the-byzantine-heritage-of-constantinople-1/), when the former Byzantine capital was the seat of the Ottoman Empire. 
